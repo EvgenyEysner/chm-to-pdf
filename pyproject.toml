@@ -7,5 +7,6 @@ requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.13.4",
     "pypdf2>=3.0.1",
+    "tqdm>=4.67.1",
     "weasyprint>=65.1",
 ]

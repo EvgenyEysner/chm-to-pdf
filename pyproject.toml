@@ -1,0 +1,11 @@
+[project]
+name = "chm-to-pdf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "pypdf2>=3.0.1",
+    "weasyprint>=65.1",
+]

@@ -22,8 +22,8 @@ A Python utility to convert CHM (Compiled HTML Help) files into PDF documents.
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/EvgenyEysner/chm-to-pdf.git
+    cd chm-to-pdf
     ```
 2. Install the required packages using [uv](https://github.com/astral-sh/uv):
     ```bash
@@ -33,4 +33,5 @@ A Python utility to convert CHM (Compiled HTML Help) files into PDF documents.
 ## Usage
 
 ```bash
-python main.py input_file.chm output_file.pdf
+  python main.py input_file.chm output_file.pdf
+```
